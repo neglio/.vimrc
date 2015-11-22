@@ -12,6 +12,7 @@ hi CursorLineNr ctermbg=4 ctermfg=0
 set formatoptions+=mM
 set ignorecase
 set cindent
+inoremap /* /**/<left><left>
 
 set number
 imap <C-j> <C-[>
